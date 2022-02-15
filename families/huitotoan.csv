@@ -1,0 +1,5 @@
+color,contribution_pk,count_concepts,description,family_glottocode,family_name,glottocode,id,jsondata,latitude,longitude,macroarea,markup_description,name,pk
+#80337B,10,310,,,Huitotoan,ocai1244,hubercolumbian-Ocaina,{},-2.159,-72.1422,South America,,Ocaina,734
+#80337B,10,341,,,Huitotoan,mini1256,hubercolumbian-WitotoMinica,{},-1.54535,-73.1107,South America,,Witoto Mi̵ni̵ca,757
+#80337B,10,336,,,Huitotoan,muru1274,hubercolumbian-WitotoMurui,{},-1.13669,-73.8331,South America,,Witoto Murui,758
+#80337B,10,342,,,Huitotoan,nupo1240,hubercolumbian-WitotoNipode,{},-2.34495,-70.9559,South America,,Witoto Ni̵pode,759

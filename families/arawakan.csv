@@ -1,0 +1,20 @@
+color,contribution_pk,count_concepts,description,family_glottocode,family_name,glottocode,id,jsondata,latitude,longitude,macroarea,markup_description,name,pk
+#51CC9E,10,259,,,Arawakan,acha1250,hubercolumbian-Achagua,{},4.38649,-72.2005,South America,,Achagua,695
+#51CC9E,10,72,,,Arawakan,bani1254,hubercolumbian-Baniva,{},5.26123,-67.5633,South America,,Baniva,697
+#51CC9E,17,7,,,Arawakan,baur1253,diacl-5200,{},-13.1278,-64.1838,South America,,Baure,527
+#51CC9E,4,234,,,Arawakan,baur1253,ids-261,{},-13.1278,-64.1838,South America,,Baure,874
+#51CC9E,10,109,,,Arawakan,cabi1241,hubercolumbian-Cabiyari,{},0.16101,-71.0622,South America,,Cabiyarí,702
+#51CC9E,10,338,,,Arawakan,curr1243,hubercolumbian-Curripaco,{},0.69618,-67.5028,South America,,Curripaco,710
+#51CC9E,10,227,,,Arawakan,tari1256,hubercolumbian-Giacone,{},0.440205,-68.9042,South America,,Giacone,718
+#51CC9E,4,902,,,Arawakan,wayu1243,ids-262,{},11.395566,-72.199791,South America,,Goajiro,875
+#51CC9E,4,834,,,Arawakan,igna1246,ids-263,{},-15.1188,-65.3993,South America,,Ignaciano,876
+#51CC9E,4,458,,,Arawakan,mash1270,ids-264,{},-11.4745,-70.7953,South America,,Mashco Piro,877
+#51CC9E,10,316,,,Arawakan,piap1246,hubercolumbian-Piapoco,{},4.37718,-68.5953,South America,,Piapoco,737
+#51CC9E,10,325,,,Arawakan,resi1247,hubercolumbian-Resigaro,{},-2.48139,-71.3578,South America,,Resígaro,741
+#51CC9E,10,147,,,Arawakan,tari1256,hubercolumbian-Tariano,{},0.440205,-68.9042,South America,,Tariano,747
+#51CC9E,4,733,,,Arawakan,trin1274,ids-265,{},-15.3331,-65.4096,South America,,Trinitario,878
+#51CC9E,4,1095,,,Arawakan,wapi1253,ids-266,{},2.58744,-59.8021,South America,,Wapishana,879
+#51CC9E,4,1009,,,Arawakan,waur1244,ids-267,{},-13.296,-53.6971,South America,,Waurá,880
+#51CC9E,10,311,,,Arawakan,wayu1243,hubercolumbian-Wayuu,{},11.395566,-72.199791,South America,,Wayuu,756
+#51CC9E,4,769,,,Arawakan,yavi1244,ids-268,{},2.800281,-68.084219,South America,,Yavitero,881
+#51CC9E,10,334,,,Arawakan,yucu1253,hubercolumbian-Yucuna,{},-0.76075,-71.0033,South America,,Yucuna,761

@@ -1,0 +1,22 @@
+color,contribution_pk,count_concepts,description,family_glottocode,family_name,glottocode,id,jsondata,latitude,longitude,macroarea,markup_description,name,pk
+#768033,10,327,,,Tucanoan,waim1255,hubercolumbian-Bara,{},0.30416,-70.1644,South America,,Bará,698
+#768033,10,340,,,Tucanoan,bara1380,hubercolumbian-Barasana,{},0.02193,-70.808,South America,,Barasana,699
+#768033,10,332,,,Tucanoan,cara1272,hubercolumbian-Carapana,{},0.06168,-69.6465,South America,,Carapana,703
+#768033,10,343,,,Tucanoan,cube1242,hubercolumbian-Cubeo,{},1.32382,-70.1939,South America,,Cubeo,708
+#768033,10,327,,,Tucanoan,desa1247,hubercolumbian-Desano,{},0.58157,-69.4955,South America,,Desano,711
+#768033,10,332,,,Tucanoan,kore1283,hubercolumbian-Koreguaje,{},0.92316,-75.3475,South America,,Koreguaje,729
+#768033,10,344,,,Tucanoan,macu1260,hubercolumbian-Macuna,{},-0.14459,-70.0749,South America,,Macuna,730
+#768033,10,258,,,Tucanoan,orej1242,hubercolumbian-Orejon,{},-2.86315,-72.4926,South America,,Orejón,735
+#768033,10,339,,,Tucanoan,pira1254,hubercolumbian-Piratapuyo,{},0.50714,-69.5032,South America,,Piratapuyo,738
+#768033,10,320,,,Tucanoan,seco1241,hubercolumbian-Secoya,{},-0.459785,-75.5547,South America,,Secoya,743
+#768033,10,299,,,Tucanoan,sion1247,hubercolumbian-Siona,{},0.31733,-76.0237,South America,,Siona,744
+#768033,4,755,,,Tucanoan,sion1247,ids-256,{},0.31733,-76.0237,South America,,Siona,869
+#768033,10,337,,,Tucanoan,siri1274,hubercolumbian-Siriano,{},0.436515,-70.184,South America,,Siriano,745
+#768033,10,337,,,Tucanoan,tani1257,hubercolumbian-Tanimuca,{},-0.59023,-70.3853,South America,,Tanimuca,746
+#768033,10,328,,,Tucanoan,tatu1247,hubercolumbian-Tatuyo,{},0.55582,-70.5327,South America,,Tatuyo,748
+#768033,10,335,,,Tucanoan,tuca1252,hubercolumbian-Tucano,{},0.579755,-69.5763,South America,,Tucano,751
+#768033,10,331,,,Tucanoan,tuyu1244,hubercolumbian-Tuyuca,{},0.39441,-70.043515,South America,,Tuyuca,753
+#768033,4,1031,,,Tucanoan,tuyu1244,ids-257,{},0.39441,-70.043515,South America,,Tuyuca,870
+#768033,10,342,,,Tucanoan,waim1255,hubercolumbian-Waimaja,{},0.30416,-70.1644,South America,,Waimaja,754
+#768033,10,337,,,Tucanoan,guan1269,hubercolumbian-Wanano,{},1.07554,-69.5705,South America,,Wanano,755
+#768033,10,333,,,Tucanoan,yuru1263,hubercolumbian-Yuruti,{},0.735585,-69.6955,South America,,Yurutí,763

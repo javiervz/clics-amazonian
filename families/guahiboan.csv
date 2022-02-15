@@ -1,0 +1,6 @@
+color,contribution_pk,count_concepts,description,family_glottocode,family_name,glottocode,id,jsondata,latitude,longitude,macroarea,markup_description,name,pk
+#4B3380,10,335,,,Guahiboan,cuib1242,hubercolumbian-Cuiba,{},6.19829,-69.8197,South America,,Cuiba,709
+#4B3380,10,334,,,Guahiboan,guah1255,hubercolumbian-Guahibo,{},5.81736,-68.9839,South America,,Guahibo,719
+#4B3380,10,334,,,Guahiboan,guay1257,hubercolumbian-Guayabero,{},2.8969,-71.844,South America,,Guayabero,721
+#4B3380,10,318,,,Guahiboan,maca1259,hubercolumbian-Jitnu,{},6.34582,-71.2671,South America,,Jitnu,724
+#4B3380,10,327,,,Guahiboan,play1240,hubercolumbian-Playero,{},6.90948,-71.0036,South America,,Playero,739

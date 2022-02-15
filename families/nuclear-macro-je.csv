@@ -1,0 +1,7 @@
+color,contribution_pk,count_concepts,description,family_glottocode,family_name,glottocode,id,jsondata,latitude,longitude,macroarea,markup_description,name,pk
+#51B5CC,17,10,,,Nuclear-Macro-Je,arik1265,diacl-55650,{},-12.4878,-62.7261,South America,,Arikapú,562
+#51B5CC,4,172,,,Nuclear-Macro-Je,cane1242,ids-293,{},-6.10712,-45.1299,South America,,Canela,909
+#51B5CC,17,120,,,Nuclear-Macro-Je,djeo1235,diacl-55700,{},-12.038,-64.6694,South America,,Jabutí,563
+#51B5CC,4,1011,,,Nuclear-Macro-Je,kain1272,ids-294,{},-27.7671,-52.5394,South America,,Kaingáng,910
+#51B5CC,4,452,,,Nuclear-Macro-Je,kara1500,ids-295,{},-11.1881,-50.3492,South America,,Karajá,911
+#51B5CC,17,334,,,Nuclear-Macro-Je,xokl1240,diacl-56000,{},-26.9217,-49.5886,South America,,Xokleng,564

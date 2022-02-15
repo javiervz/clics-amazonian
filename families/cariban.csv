@@ -1,0 +1,9 @@
+color,contribution_pk,count_concepts,description,family_glottocode,family_name,glottocode,id,jsondata,latitude,longitude,macroarea,markup_description,name,pk
+#688033,10,312,,,Cariban,cari1279,hubercolumbian-Carijona,{},1.21894,-72.0664,South America,,Carijona,704
+#688033,4,430,,,Cariban,maqu1238,ids-174,{},4.70705,-64.3877,South America,,De'kwana,789
+#688033,20,1178,,,Cariban,gali1262,wold-Kalina,{},5.83772,-56.8323,South America,,Kali'na,3025
+#688033,17,346,,,Cariban,kuik1246,diacl-33900,{},-12.3035,-53.2261,South America,,Kuikúro-Kalapálo,389
+#688033,4,909,,,Cariban,macu1259,ids-173,{},4.31861,-60.2209,South America,,Macushi,788
+#688033,4,1016,,,Cariban,enap1235,ids-172,{},6.95035,-65.8483,South America,,Panare,787
+#688033,4,969,,,Cariban,waiw1244,ids-175,{},1.50881,-59.1417,South America,,Wai Wai,790
+#688033,10,270,,,Cariban,yukp1241,hubercolumbian-Yukpa,{},9.67534,-73.0557,South America,,Yukpa,762

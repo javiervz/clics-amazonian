@@ -1,0 +1,4 @@
+color,contribution_pk,count_concepts,description,family_glottocode,family_name,glottocode,id,jsondata,latitude,longitude,macroarea,markup_description,name,pk
+#83CC51,17,187,,,Nambiquaran,latu1238,diacl-57400,{},-12.608792,-60.422423,South America,,Latundê,575
+#83CC51,17,191,,,Nambiquaran,mama1278,diacl-57300,{},-12.986439,-60.101072,South America,,Mamaindé,574
+#83CC51,17,66,,,Nambiquaran,saba1268,diacl-57500,{},-12.9857,-60.335,South America,,Sabané,576

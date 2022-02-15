@@ -1,0 +1,10 @@
+color,contribution_pk,count_concepts,description,family_glottocode,family_name,glottocode,id,jsondata,latitude,longitude,macroarea,markup_description,name,pk
+#805E33,17,74,,,Chapacuran,kuyu1236,diacl-35000,{},-11.75,-64.0,South America,,Conjubim,398
+#805E33,17,224,,,Chapacuran,orow1243,diacl-34400,{},-10.737,-64.0299,South America,,Oro Eo,391
+#805E33,17,182,,,Chapacuran,orow1243,diacl-34500,{},-10.737,-64.0299,South America,,Oro Mon,392
+#805E33,17,231,,,Chapacuran,orow1243,diacl-34600,{},-10.737,-64.0299,South America,,Oro Nao,393
+#805E33,17,234,,,Chapacuran,orow1243,diacl-34700,{},-10.737,-64.0299,South America,,Oro Waram,394
+#805E33,17,185,,,Chapacuran,orow1243,diacl-34800,{},-10.737,-64.0299,South America,,Oro Waram Xijem,395
+#805E33,17,148,,,Chapacuran,orow1243,diacl-34900,{},-10.737,-64.0299,South America,,Oro Win,396
+#805E33,4,185,,,Chapacuran,wari1268,ids-286,{},-10.69948,-64.56152,South America,,Pacaas Novos,901
+#805E33,17,7,,,Chapacuran,wari1268,diacl-34950,{},-10.69948,-64.56152,South America,,Wari',397

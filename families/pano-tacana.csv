@@ -1,0 +1,16 @@
+color,contribution_pk,count_concepts,description,family_glottocode,family_name,glottocode,id,jsondata,latitude,longitude,macroarea,markup_description,name,pk
+#336380,4,801,,,Pano-Tacanan,arao1248,ids-272,{},-12.4242,-67.7293,South America,,Araona,886
+#336380,4,647,,,Pano-Tacanan,cash1251,ids-277,{},-8.70232,-75.4206,South America,,Cashibo,891
+#336380,4,1053,,,Pano-Tacanan,pano1254,ids-278,{},-7.97456,-71.56151,South America,,Catuquina,892
+#336380,17,7,,,Pano-Tacanan,cavi1250,diacl-59507,{},-13.3544,-66.6277,South America,,Cavineña,587
+#336380,4,942,,,Pano-Tacanan,cavi1250,ids-273,{},-13.3544,-66.6277,South America,,Cavineña,887
+#336380,17,7,,,Pano-Tacanan,chac1251,diacl-59190,{},-12.133,-66.7164,South America,,Chácobo,584
+#336380,4,835,,,Pano-Tacanan,chac1251,ids-279,{},-12.133,-66.7164,South America,,Chácobo,893
+#336380,4,723,,,Pano-Tacanan,esee1248,ids-274,{},-11.7268,-67.515,South America,,Ese Ejja,888
+#336380,4,658,,,Pano-Tacanan,esee1248,ids-275,{},-11.7268,-67.515,South America,,Ese Ejja (Huarayo),889
+#336380,17,230,,,Pano-Tacanan,kaxa1239,diacl-59300,{},-9.47288,-66.3329,South America,,Kashararí,585
+#336380,17,310,,,Pano-Tacanan,cash1254,diacl-59500,{},-9.72027,-71.1733,South America,,Kashinawá,586
+#336380,4,92,,,Pano-Tacanan,paca1246,ids-280,{},-11.9968,-65.5568,South America,,Pacahuara,895
+#336380,4,917,,,Pano-Tacanan,ship1254,ids-281,{},-7.17105,-74.8219,South America,,Shipibo-Conibo,896
+#336380,4,902,,,Pano-Tacanan,taca1256,ids-276,{},-13.39249,-68.04056,South America,,Tacana,890
+#336380,4,1128,,,Pano-Tacanan,yami1256,ids-282,{},-9.8846,-71.5964,South America,,Yaminahua,897

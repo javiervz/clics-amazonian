@@ -1,0 +1,4 @@
+color,contribution_pk,count_concepts,description,family_glottocode,family_name,glottocode,id,jsondata,latitude,longitude,macroarea,markup_description,name,pk
+#807433,10,334,,,Boran,bora1263,hubercolumbian-Bora,{},-2.91467,-68.9093,South America,,Bora,701
+#807433,10,339,,,Boran,bora1263,hubercolumbian-Mirana,{},-2.91467,-68.9093,South America,,Miraña,731
+#807433,10,340,,,Boran,muin1242,hubercolumbian-Muinane,{},-0.8652,-72.4249,South America,,Muinane,732

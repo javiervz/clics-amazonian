@@ -1,0 +1,22 @@
+color,contribution_pk,count_concepts,description,family_glottocode,family_name,glottocode,id,jsondata,latitude,longitude,macroarea,markup_description,name,pk
+#61CC51,4,961,,,Tupian,ache1246,ids-288,{},-25.5865,-56.4697,South America,,Aché,903
+#61CC51,17,250,,,Tupian,amun1246,diacl-65700,{},-9.04023,-62.3064,South America,,Amondawa,602
+#61CC51,17,117,,,Tupian,arua1261,diacl-60200,{},-12.1186,-62.4357,South America,,Aruá,590
+#61CC51,4,1108,,,Tupian,east2555,ids-289,{},-21.0909,-61.7179,South America,,Chiriguano,904
+#61CC51,17,277,,,Tupian,cint1239,diacl-60300,{},-10.5879,-60.8312,South America,,Cinta Larga,591
+#61CC51,17,215,,,Tupian,gavi1246,diacl-60400,{},-10.7235,-61.6752,South America,,Gavião do Jiparaná,592
+#61CC51,4,1288,,,Tupian,para1311,ids-290,{},-25.60551,-57.08816,South America,,Guaraní,906
+#61CC51,17,365,,,Tupian,kama1373,diacl-65500,{},-12.2661,-53.4651,South America,,Kamayurá,601
+#61CC51,17,289,,,Tupian,kari1311,diacl-59900,{},-9.37937,-64.1522,South America,,Karitiâna,589
+#61CC51,17,204,,,Tupian,karo1305,diacl-61200,{},-10.3342,-61.5691,South America,,Káro,595
+#61CC51,17,62,,,Tupian,maku1278,diacl-61500,{},-11.8701,-64.3201,South America,,Makuráp,596
+#61CC51,17,11,,,Tupian,saki1248,diacl-61600,{},-13.054,-62.0927,South America,,Mekéns,597
+#61CC51,4,437,,,Tupian,mund1330,ids-287,{},-8.41095,-57.691,South America,,Mundurukú,902
+#61CC51,17,88,,,Tupian,puru1264,diacl-61000,{},-11.4226,-62.4358,South America,,Puruborá,594
+#61CC51,4,706,,,Tupian,siri1273,ids-291,{},-15.5298,-63.9688,South America,,Sirionó,907
+#61CC51,17,253,,,Tupian,suru1262,diacl-60800,{},-11.0989,-61.2818,South America,,Suruí Paitér,593
+#61CC51,17,236,,,Tupian,tupa1250,diacl-61700,{},-11.8884,-62.2544,South America,,Tuparí,598
+#61CC51,17,185,,,Tupian,urue1240,diacl-66300,{},-10.9176,-63.8086,South America,,Uru-Eu-Wau-Wau,603
+#61CC51,4,1101,,,Tupian,waya1270,ids-292,{},1.73817,-52.6887,South America,,Wayampi,908
+#61CC51,17,5,,,Tupian,wayo1238,diacl-61800,{},-12.6945,-61.3064,South America,,Wayoró,599
+#61CC51,17,7,,,Tupian,yuqu1240,diacl-64600,{},-16.7875,-64.9438,South America,,Yuqui,600
